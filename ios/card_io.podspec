@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'card_io'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Card IO plugin project.'
   s.description      = <<-DESC
 A card IO plugin project.
